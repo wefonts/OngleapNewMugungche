@@ -9,3 +9,4 @@
          url("path/to/OngleapNewMugungche.ttf") format("truetype");
     font-display: swap;
 }
+ 
