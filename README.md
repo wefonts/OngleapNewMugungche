@@ -9,5 +9,5 @@
          url("https://github.com/wefonts/OngleapNewMugungche/raw/main/fonts/OngleapNewMugungche.woff") format("woff"),
          url("https://github.com/wefonts/OngleapNewMugungche/raw/main/fonts/OngleapNewMugungche.ttf") format("truetype");
     font-display: swap;
-}   
+}  
 </pre>
