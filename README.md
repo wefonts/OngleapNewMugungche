@@ -9,5 +9,9 @@
     font-display: swap;
 }
 
+.OngleapNewMugungche {
+    font-family: "OngleapNewMugungche";
+}
+
 </pre>
 
