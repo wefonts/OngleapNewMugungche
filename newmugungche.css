@@ -7,3 +7,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapNewMugungche/OngleapNewMugungche.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapNewMugungche {
+    font-family: "OngleapNewMugungche";
+}
